@@ -1,44 +1,28 @@
 const config = {
-  title: "Naresh Khatri | Full-Stack Developer",
+  title: "Abhinav Kesavan R | Under Grad CS Student",
   description: {
-    long: "Explore the portfolio of Naresh, a full-stack developer and creative technologist specializing in interactive web experiences, 3D animations, and innovative projects. Discover my latest work, including Coding Ducks, The Booking Desk, Ghostchat, and more. Let's build something amazing together!",
+    long: "I'm a Computer Science student at SRM KTR, exploring software engineering and AI/ML. I enjoy turning ideas into practical projects, experimenting with new technologies, and learning by building. Currently focused on strengthening my fundamentals, developing meaningful projects, and growing as a developer. Let's build something amazing together!",
     short:
-      "Discover the portfolio of Naresh, a full-stack developer creating interactive web experiences and innovative projects.",
+      "Discover the portfolio of Abhinav, Computer Science student at SRM KTR with an interest in software engineering, AI/ML, and building practical solutions through hands-on projects.",
   },
   keywords: [
-    "Naresh",
-    "portfolio",
-    "full-stack developer",
-    "creative technologist",
-    "web development",
-    "3D animations",
-    "interactive websites",
-    "Coding Ducks",
-    "The Booking Desk",
-    "Ghostchat",
-    "web design",
-    "GSAP",
-    "React",
-    "Next.js",
-    "Framer Motion",
+    "Abhinav Kesavan",
+    "Portfolio",
+    "Aspiring Software Engineer",
+    "Creative Technologist",
+    "AI/ML Enthusiast",
+    "Software Developer",
+    "Tech Explorer",
   ],
-  author: "Naresh Khatri",
-  email: "naresh.khatri2345@gmail.com",
-  site: "https://nareshkhatri.dev",
-
-  // for github stars button
-  githubUsername: "naresh-khatri",
-  githubRepo: "3d-portfolio",
-
+  author: "Abhinav Kesavan R",
+  email: "abhinavkesavan1@gmail.com",
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/nothotchaddi",
-    linkedin: "https://www.linkedin.com/in/naresh-khatri/",
-    instagram: "https://www.instagram.com/hotchaddi",
-    facebook: "https://www.facebook.com/HotChaddi/",
-    github: "https://github.com/Naresh-Khatri",
+    linkedin: "https://www.linkedin.com/in/abhinav-kesavan-0b2716226/",
+    instagram: "https://www.instagram.com/uff.abhinav/",
+    github: "https://github.com/abhinavkesavan",
   },
 };
 export { config };
